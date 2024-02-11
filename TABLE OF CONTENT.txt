@@ -13,4 +13,8 @@
 
 7. FINAL PRESENTATION. 8-02-2024 (PNG file with the evidence of Google Meet session with the customer in order to show him that all tasks have been done correctly).
 
-7. FINAL VIDEO PRESENTATION. 8-02-2024 (MP4 video with that shows the final presentation of all done tasks to customer).
+8. FINAL VIDEO PRESENTATION. 8-02-2024 (MP4 video with that shows the final presentation of all done tasks to customer).
+
+9. Deployment
+
+10. Tests
